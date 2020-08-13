@@ -1,6 +1,6 @@
 # reactStart-v2
 Boilerplate for React apps
-## Install
+## npm install
 ```
 run powershell as administrator so installation won`t fail
 ```
