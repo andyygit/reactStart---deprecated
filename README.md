@@ -8,6 +8,7 @@ create .babelrc in root folder with contents:
 }
 ```
 could add css (even more scss with according loader) and modify the webpack config accordingly - below old requirements for css
+better more materialUi
 ```
 "@babel/cli": "^7.8.4",
 "@babel/core": "^7.9.0",
