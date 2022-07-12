@@ -1,5 +1,5 @@
 # reactStart-v2
-Boilerplate for React apps
+Deprecated, moved to reactStart-v2
 ## Install
 create .babelrc in root folder with contents:
 ```
